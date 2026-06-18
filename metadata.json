@@ -1,0 +1,6 @@
+{
+  "name": "경력인재 창업 제안서 빌더",
+  "description": "40~60대 전문 경력자들의 실무 노하우를 맞춤형 사업 계획서 초안으로 자동 생성하고, AI 심층 인터뷰를 통해 가시적인 고품질 시장분석 보고서 작성 및 챗봇 수정 보완 작업을 돕는 원스톱 창업 조력 어플리케이션입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
